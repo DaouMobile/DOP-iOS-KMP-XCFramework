@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "baseStarter",
-            targets: ["KMPModule"]
+            targets: ["baseStarter"]
         )
     ],
     targets: [
