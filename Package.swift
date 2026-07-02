@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "baseStarter",
-            url: "https://github.com/DaouMobile/DOP-iOS-KMP-XCFramework/releases/download/v1.0.64/KMP_1.0.64.zip",
-            checksum: "94a83d4e15162ac5d9981cf7491a3fdcd28933e7549fc0647ad3917f518ffa01"
+            url: "https://github.com/DaouMobile/DOP-iOS-KMP-XCFramework/releases/download/v1.0.65/KMP_1.0.65.zip",
+            checksum: "db6cf8f72bdc231df77e939a4089f0f6fe822e5461f05410242aa9bfce1105b3"
         )
     ]
 )
